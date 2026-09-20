@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.15.0",
+  "channel": "stable",
+  "installer_url": "https://github.com/Pat211290/BMW-E-Tool-Updates/releases/download/v0.15.0/BMW_E_Tool_v0.15_Setup.exe",
+  "sha256": "6f973b6a25cc9c51bd3b598a461495aa1c62123633a0f7ff70ae8228fc5bb663",
+  "signature": "X/Vv3n2RTh8UWP0gm4Iw2vf+qmKYVQJpyeIJ/h5lIIC169oMpx3niKQEeenGyUpdxMZ3DfIctu7JJWF5FJrHCA==",
+  "notes": "Automatische Updates abgerundet: sicherer Hintergrunddownload, Installationssperre während Fahrzeugfunktionen, sauberes Upgrade und Neustart."
+}
